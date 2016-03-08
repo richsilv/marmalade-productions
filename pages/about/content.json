@@ -1,7 +1,15 @@
 {
-  "pageTile": "About - Marmalade Productions",
-  "h1": "About us",
-  "randomList": ["foo", "bar", "baz"],
-  "lotsOfInfo": "blah blah blah",
-  "mapCenter": [51.503407,-0.127592]
+	"pageTile": "About - Marmalade Productions",
+	"h1": "About us",
+	"randomList": [
+		"foo",
+		"Another item",
+		"bar",
+		"baz"
+	],
+	"lotsOfInfo": "blah blah blah",
+	"mapCenter": [
+		51.503407,
+		-0.127592
+	]
 }
