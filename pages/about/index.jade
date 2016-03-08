@@ -5,3 +5,7 @@ html(lang='en')
     title=content.pageTitle
   body
     h1=content.h1
+    ul
+      each entry in content.randomList
+        li=entry
+    h3 Map center is at #{content.mapCenter}

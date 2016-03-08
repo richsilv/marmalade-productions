@@ -1,0 +1,11 @@
+{
+  "randomList": {
+    "type": "list"
+  },
+  "lotsOfInfo": {
+    "type": "textarea"
+  },
+  "mapCenter": {
+    "type": "map"
+  }
+}
