@@ -2,11 +2,44 @@
 	"pageTile": "About - Marmalade Productions",
 	"h1": "About us",
 	"randomList": [
-		"New Item",
-		"foo",
+		[
+			[
+				[
+					[
+						[
+							"Cheese"
+						]
+					]
+				]
+			]
+		],
+		[
+			[
+				[
+					[
+						[
+							[
+								"bar"
+							]
+						]
+					]
+				]
+			]
+		],
 		"Another item",
-		"bar",
-		"baz"
+		[
+			"foo"
+		],
+		"baz",
+		[
+			[
+				[
+					[
+						"New Item"
+					]
+				]
+			]
+		]
 	],
 	"lotsOfInfo": "blah blah blah",
 	"mapCenter": [
