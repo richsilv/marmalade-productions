@@ -3,11 +3,11 @@
 	"h1": "About us",
 	"randomList": [
 		"Cheese",
+		"foo",
 		"Another item",
 		"New Item",
-		"foo",
-		"bar",
-		"baz"
+		"baz",
+		"bar"
 	],
 	"lotsOfInfo": "blah blah blah",
 	"mapCenter": [
