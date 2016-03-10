@@ -2,7 +2,7 @@
   "jumbotronH1": {
     "type": "text",
     "validation": {
-      "max": 65
+      "maxLength": 10
     }
   },
   "jumbotronLead": {
