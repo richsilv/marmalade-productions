@@ -13,5 +13,15 @@
 	"mapCenter": [
 		51.566189002103535,
 		-0.14373382919075084
+	],
+	"randomCollection": [
+		{
+			"foo": "this is some text",
+			"bar": "http://www.chipchick.com/wp-content/uploads/2015/10/cat-with-gps-collar2.jpg"
+		},
+		{
+			"foo": "this is another piece of arbitrary text",
+			"bar": "http://media4.popsugar-assets.com/files/2014/08/08/878/n/1922507/caef16ec354ca23b_thumb_temp_cover_file32304521407524949.xxxlarge/i/Funny-Cat-GIFs.jpg"
+		}
 	]
 }
