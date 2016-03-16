@@ -7,5 +7,16 @@
   },
   "mapCenter": {
     "type": "map"
+  },
+  "randomCollection": {
+    "type": "collection",
+    "itemSchema": {
+      "foo": {
+        "type": "textarea"
+      },
+      "bar": {
+        "type": "url"
+      }
+    }
   }
 }
