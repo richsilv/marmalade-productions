@@ -15,7 +15,7 @@
         "type": "textarea"
       },
       "bar": {
-        "type": "url"
+        "type": "img"
       }
     }
   }
