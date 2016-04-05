@@ -14,14 +14,5 @@
     51.566189002103535,
     -0.14373382919075084
   ],
-  "randomCollection": [
-    {
-      "yeast": "geese",
-      "size": 4
-    },
-    {
-      "yeast": "trousers",
-      "size": 8
-    }
-  ]
+  "randomCollection": []
 }
