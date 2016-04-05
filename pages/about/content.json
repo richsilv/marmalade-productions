@@ -16,12 +16,12 @@
   ],
   "randomCollection": [
     {
-      "foo": "this is another piece of arbitrary text which has just changed",
-      "bar": "http://media4.popsugar-assets.com/files/2014/08/08/878/n/1922507/caef16ec354ca23b_thumb_temp_cover_file32304521407524949.xxxlarge/i/Funny-Cat-GIFs.jpg"
-    },
-    {
       "foo": "this is some different text",
       "bar": "http://www.ucarecdn.com/bb42da7d-9c70-48b6-a8d3-075b6dc2b4ae/"
+    },
+    {
+      "foo": "this is another piece of arbitrary text which has just changed",
+      "bar": "http://media4.popsugar-assets.com/files/2014/08/08/878/n/1922507/caef16ec354ca23b_thumb_temp_cover_file32304521407524949.xxxlarge/i/Funny-Cat-GIFs.jpg"
     }
   ]
 }
