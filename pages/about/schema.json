@@ -8,9 +8,8 @@
   "mapCenter": {
     "type": "map"
   },
-  "randomCollection": {
-    "type": "collection",
-    "itemSchema": {
+  "randomCollection": [
+    {
       "foo": {
         "type": "textarea"
       },
@@ -18,5 +17,5 @@
         "type": "img"
       }
     }
-  }
+  ]
 }
