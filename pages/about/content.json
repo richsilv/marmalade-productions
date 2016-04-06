@@ -16,10 +16,6 @@
   ],
   "randomCollection": [
     {
-      "foo": "bar",
-      "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
-    },
-    {
       "foo": "qux",
       "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
     }
