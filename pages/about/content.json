@@ -16,11 +16,15 @@
   ],
   "randomCollection": [
     {
+      "foo": "mice",
+      "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
+    },
+    {
       "foo": "yeast",
       "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
     },
     {
-      "foo": "mice",
+      "foo": "new field",
       "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
     }
   ]
