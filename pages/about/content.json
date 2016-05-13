@@ -4,10 +4,11 @@
   "randomList": [
     "Cheese",
     "foo",
-    "Another item",
     "New Item",
     "baz",
-    "bar"
+    "bar",
+    "Another item",
+    "Final Item"
   ],
   "lotsOfInfo": "blah blah blah\n\nThis appears in a text box.",
   "mapCenter": [
