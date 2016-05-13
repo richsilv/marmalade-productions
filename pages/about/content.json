@@ -9,7 +9,7 @@
     "baz",
     "bar"
   ],
-  "lotsOfInfo": "blah blah blah",
+  "lotsOfInfo": "blah blah blah\n\nThis appears in a text box.",
   "mapCenter": [
     51.541100218362786,
     -0.13960433872853173
