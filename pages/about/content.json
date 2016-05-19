@@ -17,12 +17,12 @@
   ],
   "randomCollection": [
     {
-      "foo": "mice",
-      "bar": "http://www.ucarecdn.com/fdb28b18-474d-4e71-9c5b-2e60dde38dee/"
-    },
-    {
       "foo": "cheese",
       "bar": "http://www.ucarecdn.com/fd75c562-06db-4f70-bfaf-c6addc540367/"
+    },
+    {
+      "foo": "mice",
+      "bar": "http://www.ucarecdn.com/fdb28b18-474d-4e71-9c5b-2e60dde38dee/"
     },
     {
       "foo": "Fruit!",
