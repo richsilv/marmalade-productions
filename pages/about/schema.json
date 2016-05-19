@@ -26,5 +26,8 @@
   ],
   "Nonsense": {
     "type": "boolean"
+  },
+  "A URL": {
+    "type": "url"
   }
 }
