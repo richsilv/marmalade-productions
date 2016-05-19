@@ -29,5 +29,8 @@
   },
   "A URL": {
     "type": "url"
+  },
+  "User": {
+    "type": "email"
   }
 }
