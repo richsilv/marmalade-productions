@@ -19,6 +19,18 @@
     {
       "foo": "mice",
       "bar": "https://ucarecdn.com/3e350589-0ceb-49e2-9b5b-72f2db0f115e/-/crop/1424x1382/920,139/-/preview/"
+    },
+    {
+      "foo": "new field",
+      "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
+    },
+    {
+      "foo": "new field",
+      "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
+    },
+    {
+      "foo": "new field",
+      "bar": "http://doggybarking.com/wp-content/uploads/2016/03/funny-dog-dude.jpg"
     }
   ]
 }
